@@ -1,0 +1,41 @@
+@keyframes shipLightsAt {
+    0% {
+      opacity: 0.7;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0.7;
+    }
+  }
+  
+  @keyframes bottomIn {
+    from {
+      transform: translateY(600px);
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  .bc-1 {
+    animation: bottomIn 2.6s ease-in-out forwards;
+  }
+  .bc-2 {
+    animation: bottomIn 2.4s ease-in-out forwards;
+  }
+  .bc-3 {
+    animation: bottomIn 2.2s ease-in-out forwards;
+  }
+  .bc-4 {
+    animation: bottomIn 2.2s ease-in-out forwards;
+  }
+  .bc-5 {
+    animation: bottomIn 2.1s ease-in-out forwards;
+  }
+  .bc-6 {
+    animation: bottomIn 2s ease-in-out forwards;
+  }
+  
