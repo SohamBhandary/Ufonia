@@ -1,4 +1,4 @@
-# 👽 UFO Sightings Tracker 👽
+# 👽 Ufonia👽
 
 Have you seen something strange in the sky?  This project tracks UFO sightings reported by people around the world. Join our community and share your experience, or explore others' encounters!
 
