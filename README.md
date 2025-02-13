@@ -1,19 +1,21 @@
-# 🛸 Ufonia! 🛸
+# 👽 UFO Sightings Tracker 👽
 
-Witness an animated alien UFO soar across your screen! This project uses pure HTML and CSS to bring a playful extraterrestrial visitor to life.
+Have you seen something strange in the sky?  This project tracks UFO sightings reported by people around the world. Join our community and share your experience, or explore others' encounters!
 
 ## Tech Stack
 
 - HTML5
 - CSS3
+- (Potentially JavaScript for interactivity and data handling)
+- (Potentially a backend technology/database if you store data)
 
 ## Launch Sequence
 
 1. Clone/download this repository.
-2. Open `index.html` in your favorite browser.
+2. Open `index.html` in your browser.  (This may point to a live website eventually)
 
-## Key Features
 
-- **UFO Animation:**  Watch the UFO hover and glide with smooth CSS transitions.
-- **CSS Magic:**  No JavaScript required for the core animation!
-- **Clean Codebase:**  Easy to explore and modify.
+## Join the Community!
+
+Are you a believer?  A skeptic?  Just curious?  Join our community and be part of the conversation! (Link to forum/community page if available)
+
